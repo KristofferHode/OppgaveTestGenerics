@@ -1,0 +1,14 @@
+C:\Users\Kristoffer\Documents\Kodehode\Backend_Undervisning\OppgaveTestGenerics\bin\Debug\net9.0\OppgaveTestGenerics.exe
+C:\Users\Kristoffer\Documents\Kodehode\Backend_Undervisning\OppgaveTestGenerics\bin\Debug\net9.0\OppgaveTestGenerics.deps.json
+C:\Users\Kristoffer\Documents\Kodehode\Backend_Undervisning\OppgaveTestGenerics\bin\Debug\net9.0\OppgaveTestGenerics.runtimeconfig.json
+C:\Users\Kristoffer\Documents\Kodehode\Backend_Undervisning\OppgaveTestGenerics\bin\Debug\net9.0\OppgaveTestGenerics.dll
+C:\Users\Kristoffer\Documents\Kodehode\Backend_Undervisning\OppgaveTestGenerics\bin\Debug\net9.0\OppgaveTestGenerics.pdb
+C:\Users\Kristoffer\Documents\Kodehode\Backend_Undervisning\OppgaveTestGenerics\obj\Debug\net9.0\OppgaveTestGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristoffer\Documents\Kodehode\Backend_Undervisning\OppgaveTestGenerics\obj\Debug\net9.0\OppgaveTestGenerics.AssemblyInfoInputs.cache
+C:\Users\Kristoffer\Documents\Kodehode\Backend_Undervisning\OppgaveTestGenerics\obj\Debug\net9.0\OppgaveTestGenerics.AssemblyInfo.cs
+C:\Users\Kristoffer\Documents\Kodehode\Backend_Undervisning\OppgaveTestGenerics\obj\Debug\net9.0\OppgaveTestGenerics.csproj.CoreCompileInputs.cache
+C:\Users\Kristoffer\Documents\Kodehode\Backend_Undervisning\OppgaveTestGenerics\obj\Debug\net9.0\OppgaveTestGenerics.dll
+C:\Users\Kristoffer\Documents\Kodehode\Backend_Undervisning\OppgaveTestGenerics\obj\Debug\net9.0\refint\OppgaveTestGenerics.dll
+C:\Users\Kristoffer\Documents\Kodehode\Backend_Undervisning\OppgaveTestGenerics\obj\Debug\net9.0\OppgaveTestGenerics.pdb
+C:\Users\Kristoffer\Documents\Kodehode\Backend_Undervisning\OppgaveTestGenerics\obj\Debug\net9.0\OppgaveTestGenerics.genruntimeconfig.cache
+C:\Users\Kristoffer\Documents\Kodehode\Backend_Undervisning\OppgaveTestGenerics\obj\Debug\net9.0\ref\OppgaveTestGenerics.dll
