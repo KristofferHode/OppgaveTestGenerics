@@ -12,3 +12,4 @@ C:\Users\Kristoffer\Documents\Kodehode\Backend_Undervisning\OppgaveTestGenerics\
 C:\Users\Kristoffer\Documents\Kodehode\Backend_Undervisning\OppgaveTestGenerics\obj\Debug\net9.0\OppgaveTestGenerics.pdb
 C:\Users\Kristoffer\Documents\Kodehode\Backend_Undervisning\OppgaveTestGenerics\obj\Debug\net9.0\OppgaveTestGenerics.genruntimeconfig.cache
 C:\Users\Kristoffer\Documents\Kodehode\Backend_Undervisning\OppgaveTestGenerics\obj\Debug\net9.0\ref\OppgaveTestGenerics.dll
+C:\Users\Kristoffer\Documents\Kodehode\Backend_Undervisning\OppgaveTestGenerics\obj\Debug\net9.0\OppgaveTestGenerics.sourcelink.json

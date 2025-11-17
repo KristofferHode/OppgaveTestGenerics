@@ -1,6 +1,6 @@
 using System.Reflection.Metadata.Ecma335;
 
-namespace modul2Oppgave1;
+namespace MagicDeck;
 public class MagicCard
 {
     public string Name { get; set; }

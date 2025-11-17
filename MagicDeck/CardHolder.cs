@@ -1,4 +1,4 @@
-namespace modul2Oppgave1;
+namespace MagicDeck;
 //gammel kode for å lage en deck holder som holder ett spesifikt antall kort
 public class CardHolder<T>
 {

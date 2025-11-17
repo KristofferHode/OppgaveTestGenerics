@@ -2,8 +2,8 @@
 using System.ComponentModel.DataAnnotations;
 using System.Data.SqlTypes;
 using System.Security.Cryptography.X509Certificates;
+namespace MagicDeck;
 
-namespace modul2Oppgave1;
 
 class Program
 {

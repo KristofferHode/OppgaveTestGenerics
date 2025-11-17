@@ -1,6 +1,6 @@
 using System.Runtime.InteropServices;
 using Microsoft.VisualBasic;
-namespace modul2Oppgave1;
+namespace MagicDeck;
 public class Deck<T>
 {
     private List<T> cards = new List<T>();

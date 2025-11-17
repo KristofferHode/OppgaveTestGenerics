@@ -19,8 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\modul2Oppgave1.csproj" />
+    <ProjectReference Include="..\OppgaveTestGenerics.csproj" />
   </ItemGroup>
-  
 
 </Project>
